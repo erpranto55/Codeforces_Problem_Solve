@@ -1,4 +1,5 @@
-//https://codeforces.com/contest/2156/problem/A
+//https://codeforces.com/contest/2167/problem/F
+
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -17,13 +18,11 @@ ll fy[] = {1, -1, 0, 0, -1, 1, -1, 1};
 int main()
 {
     FAST;
-    ll tc = 1;
+    int tc = 1;
     cin >> tc;
     while (tc--)
     {
-        ll n;
-        cin >> n;
-        cout << (n - 1) / 2 << '\n';
+        
     }
     return 0;
 }

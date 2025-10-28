@@ -1,3 +1,5 @@
+//https://codeforces.com/contest/2156/problem/B
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
@@ -29,7 +31,7 @@ int main()
             cin >> a;
             int pos = 0;
             ll cnt = 0;
-            while (a > 0)
+            for(int i=0;i<q;i++)
             {
                 if (s[pos] == 'B')
                 {
