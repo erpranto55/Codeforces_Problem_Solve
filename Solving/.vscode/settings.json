@@ -70,5 +70,6 @@
     "initializer_list": "cpp",
     "regex": "cpp",
     "valarray": "cpp"
-  }
+  },
+  "C_Cpp.default.compilerPath": "E:/Tools/MinGW/bin/g++.exe"
 }
